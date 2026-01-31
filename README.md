@@ -8,5 +8,5 @@ Velocity parameters are tuned for joystick control. Keyboard input (W/A/S/D) is 
 Gains were calibrated for joystick input only -> for correct behavior, use a joystick.
 
 This setup was designed to:
-Implement real ROV operation as closely as possible
+Implement real ROV operation as closely as possible + 
 Enable realistic testing of 3D localization 
